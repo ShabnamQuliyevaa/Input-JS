@@ -1,0 +1,21 @@
+body {
+    background-color: #ccc;
+}
+.form {
+  text-align: center;
+  margin-top: 200px;
+}
+.form input {
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 200px;
+    padding: 10px;
+    padding-left: 15px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.form ul li {
+   list-style: none;
+   margin-bottom: 7px;
+   margin-right: 35px;
+ }
